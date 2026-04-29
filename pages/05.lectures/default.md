@@ -14,4 +14,12 @@ Notes de lecture, critiques et coups de cœur — mes lectures au fil du temps.
 
 ### [Xenos (Eisenhorn, Tome 1) — Dan Abnett](01.xenos-eisenhorn)
 
-Premier tome de la trilogie *Eisenhorn*, dans l'univers de Warhammer 40,000. Un inquisiteur traque hérétiques et démons — et le prix à payer pour lutter contre le Chaos.
+Premier tome de la trilogie *Eisenhorn*, dans l'univers de Warhammer 40,000.
+
+### [Rencontres (Ravenor, Tome 1) — Dan Abnett](02.ravenor-rencontres)
+
+Premier tome de la trilogie *Ravenor* — la suite des aventures dans le 41e millénaire.
+
+### [Renaissance (Ravenor, Tome 2) — Dan Abnett](03.ravenor-renaissance)
+
+Deuxième tome de la trilogie *Ravenor* — Gideon Ravenor poursuit sa traque.
