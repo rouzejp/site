@@ -5,6 +5,8 @@ menu: À propos
 
 # À propos de ce blog
 
+![](avatar-singe-espace.svg?resize=200&class=float-left)
+
 ## L'auteur
 
 Je m'appelle **Jean-Paul Rouzé**. Ce blog est mon espace d'expression personnelle — un lieu où je partage ce qui m'intéresse, me questionne ou me passionne.
