@@ -23,3 +23,7 @@ Premier tome de la trilogie *Ravenor* — la suite des aventures dans le 41e mil
 ### [Renaissance (Ravenor, Tome 2) — Dan Abnett](03.ravenor-renaissance)
 
 Deuxième tome de la trilogie *Ravenor* — Gideon Ravenor poursuit sa traque.
+
+### [Révélations (Ravenor, Tome 3) — Dan Abnett](04.ravenor-revelations)
+
+Troisième et dernier tome de la trilogie *Ravenor* — la conclusion.
